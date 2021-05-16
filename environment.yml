@@ -1,0 +1,14 @@
+name: 268final
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - networkx
+  - notebook
+  - scipy
+  - numpy
+  - pandas
+  - matplotlib
+  - tmux
+prefix: /Users/yaatehr/miniconda3/envs/268final
+
